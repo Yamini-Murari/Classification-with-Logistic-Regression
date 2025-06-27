@@ -5,7 +5,6 @@ NAME : MURARI YAMINI
 OBJECTIVE : build a binary classifier using logistic regression
 
 TOOLS USED : scikit-learn - preprocessing,evaluation
-
              pandas - data handling,matplotlib - visualization,numpy - array
 
 DATASET : Breast Cancer Dataset
