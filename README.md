@@ -6,17 +6,11 @@ OBJECTIVE : build a binary classifier using logistic regression
 
 TOOLS USED : scikit-learn - preprocessing,evaluation
 
-             pandas - data handling
-
-             matplotlib - visualization
-
-             numpy - array
+             pandas - data handling,matplotlib - visualization,numpy - array
 
 DATASET : Breast Cancer Dataset
 
-target values : 0 -malignant
-
-                1 -benign 
+target values : 0 -malignant,1 -benign 
 
 features used : radius_mean,texture_mean,perimeter_mean,area_mean
 
